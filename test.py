@@ -1,1 +1,1 @@
-print("SoulBorneSekiroRing")
+print("SoulBorneSekiroRingReign")
